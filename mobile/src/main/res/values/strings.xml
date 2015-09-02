@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TuIo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="drawer_open">Menu abierto</string>
+    <string name="drawer_close">Menu cerrado</string>
+    <string name="title_activity_consulta">Consulta</string>
+
+    <string name="title_activity_wifi">Wifi</string>
+    <string name="title_activity_terminal_terrestre">TerminalTerrestre</string>
+    <string-array name="Ciudades">
+        <item>Guayaquil</item>
+        <item>Quito</item>
+        <item>Cuenca</item>
+        <item>Machala</item>
+        <item>Santo Domingo</item>
+        <item>Loja</item>
+    </string-array>
+    <string name="title_activity_noticias">Noticias</string>
+    <string name="title_activity_municipio">Municipio</string>
+    <string name="title_activity_solicitar_cita">SolicitarCita</string>
+    <string-array name="especialidades">
+        <item>Medicina General</item>
+        <item>Cardiologo</item>
+        <item>Otorrino</item>
+        <item>Dentista</item>
+        <item>Dermatologo</item>
+    </string-array>
+</resources>
